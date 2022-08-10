@@ -41,31 +41,31 @@ const Technologies = () => {
 {/* feito "na mão" devido ao erro de source map */}
         <div className="technology-card" id="html">
           <DiHtml5 />
-          <h3>HTML5</h3>
+          <h4>HTML5</h4>
         </div>
         <div className="technology-card" id="css">
           <DiCss3 />
-          <h3>CSS3</h3>
+          <h4>CSS3</h4>
         </div>
         <div className="technology-card" id="js">
           <DiJsBadge />
-          <h3>JavaScript</h3>
+          <h4>JavaScript</h4>
         </div>
         <div className="technology-card" id="node">
           <DiNodejsSmall />
-          <h3>Node.js</h3>
+          <h4>Node.js</h4>
         </div>
         <div className="technology-card" id="react">
           <DiReact />
-          <h3>React.js</h3>
+          <h4>React.js</h4>
         </div>
         <div className="technology-card" id="mysql">
           <DiMysql />
-          <h3>MySQL</h3>
+          <h4>MySQL</h4>
         </div>
         <div className="technology-card" id="mongo">
           <DiMongodb />
-          <h3>MongoDB</h3>
+          <h4>MongoDB</h4>
         </div>
       </div>
     </section>
