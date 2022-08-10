@@ -14,7 +14,7 @@ Simples página com informações sobre mim, feita em `React.js` para iniciar o 
 
 ### View da página
 
-![página sobre mim](./src/img/aboutme.png)
+![página sobre mim](./portfolio-vite-react/src/img/aboutme.png)
 
 ---
 
