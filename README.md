@@ -1,5 +1,5 @@
 
-# Simples sobre mim
+# Simples "About me"
 
 Simples página com informações sobre mim, feita em `React.js` para iniciar o aprendizado de `Sass`.
 
